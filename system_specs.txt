@@ -1,0 +1,4 @@
+[1;34mKernel:[0;37m 4.4.0-85-generic x86_64 (64 bit) [1;34mDesktop:[0;37m Xfce 4.12.3[0;37m
+[1;34mMachine:  [0;37m [1;34mSystem:[0;37m Dell (portable) [1;34mproduct:[0;37m XPS 13 9350[0;37m
+[1;34m          [0;37m [1;34mMobo:[0;37m Dell [1;34mv:[0;37m A01 [1;34mBios:[0;37m Dell [1;34mv:[0;37m 1.4.17 [1;34mdate:[0;37m 05/10/2017[0;37m
+[1;34mCPU:      [0;37m [1;34mDual core[0;37m Intel Core i7-6500U (-HT-MCP-)[0;37m [1;34mcache:[0;37m 4096 KB[0;37m 
